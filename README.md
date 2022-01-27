@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 - 👩🏼‍💻 my LeetCode profile -> https://leetcode.com/User_user/
 
+- participant of https://sberfight.geecko.com/ (January 2022)
+
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anastasiiaq&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
