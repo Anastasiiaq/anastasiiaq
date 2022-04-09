@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tmillenn?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![tmillenn's 42 stats](https://badge42.vercel.app/api/v2/cl1rvh46t001109l6knipwqwv/stats?cursusId=21&coalitionId=90)](https://github.com/JaeSeoKim/badge42)
 
 - 👩🏼‍💻 my LeetCode profile -> https://leetcode.com/User_user/
 
